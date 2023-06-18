@@ -19,3 +19,12 @@ git log
 git checkout commitID
 git clone URL
 git pull 
+
+git stash pop
+git stash drop stash@{0}
+
+git branch -M main
+git branch -v 
+git branch backend
+git checkout backend
+git checkout main
